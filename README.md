@@ -33,7 +33,7 @@ Bom desafio! -->
 To test your skills, we brought a unique challenge for a skilled QA Enginner like you. We need you to evaluate 2 happy scenarios for website pages using the given [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjc5ZTlhZmMtYjQ5ZC00MWU4LWEyMzAtZWVjNTllODZlOTc5IiwidCI6Ijc0MzBjOGJlLWQ1ZTMtNDgxYi1hNTcwLTZjOGI0MzRkZGY4OCIsImMiOjZ9) here and present the proper outcomes. And for your manual testing skills you'll need to find and properly report at least 3 bugs in this [Website](https://wwww.steamgroups.com.br).
 
 - Use the Dashboard available [here](https://app.powerbi.com/view?r=eyJrIjoiYjc5ZTlhZmMtYjQ5ZC00MWU4LWEyMzAtZWVjNTllODZlOTc5IiwidCI6Ijc0MzBjOGJlLWQ1ZTMtNDgxYi1hNTcwLTZjOGI0MzRkZGY4OCIsImMiOjZ9).
-- Use this Website [here](https://wwww.steamgroups.com.br).
+- Use this Website [here](https://www.steamgroups.com.br).
 
 ## ⚔️ The Challenge
 
