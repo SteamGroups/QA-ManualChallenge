@@ -5,7 +5,7 @@
 Welcome. This is our QA Enginner Manual Challenge!
 
 Our main objective is to assess your analysis and manual testing skills. As well as the ability to report and evaluate bugs and issues.
-When you feel ready to submit your answers, use the link we sent to your e-mail to post your Github Repo!
+When you feel ready to submit your answers, send the file or link by e-mail!
 We will send you further instructions and your feedback then.
 
 <!-- Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
